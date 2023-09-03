@@ -53,8 +53,8 @@ function App() {
         </div>
         <ul className="nav-links">
           <li><Link to="/">Home</Link></li>
-          <li><a href="#">Products</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="/">Products</a></li>
+          <li><a href="/">Contact</a></li>
           <li><Link to="/store">Store</Link></li>
         </ul>
       </nav>
